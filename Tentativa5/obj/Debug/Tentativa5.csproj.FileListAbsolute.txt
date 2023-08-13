@@ -1,0 +1,15 @@
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\bin\Debug\Tentativa5.exe.config
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\bin\Debug\Tentativa5.exe
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\bin\Debug\Tentativa5.pdb
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.Form1.resources
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.frmFinal.resources
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.Frmp1.resources
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.Frmp2.resources
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.Frmp3.resources
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.Frmp4.resources
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.Properties.Resources.resources
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.exe
+C:\Users\vinic\source\repos\Tentativa5\Tentativa5\obj\Debug\Tentativa5.pdb
